@@ -201,6 +201,8 @@ footer a {
 
 /* REGOLE CSS DELL'ESERCIZIO */
 
+/* Primo esercizio */
+
 #wrap-badge__img {
 	position: relative;
 }
@@ -219,4 +221,25 @@ footer a {
 	float: left;
 	margin-right: 15px;
 	border: rgb(34, 109, 170) 4px solid;
+}
+
+/* Secondo esercizio */
+
+/* 
+nav ul li {
+	float: left;
+} */
+
+#nav-container ul {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+/* Terzo esercizio */
+
+header {
+	position: sticky;
+	top: 0px;
+	z-index: 1;
 }
