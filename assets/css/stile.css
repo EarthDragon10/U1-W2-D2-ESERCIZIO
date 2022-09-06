@@ -261,11 +261,23 @@ header {
 
 .icons-fixed {
 	position: fixed;
-	top: 0px;
 	font-size: 3.5em;
-	color: violet;
 	background-color: white;
 	z-index: 2;
-	top: 400px;
+}
+
+#square_icon-position {
 	right: -7px;
+	top: 250px;
+}
+
+#calendar_icon-position {
+	right: -7px;
+	top: 330px;
+}
+
+#arrow_icon-position {
+	color: violet;
+	right: -7px;
+	top: 450px;
 }
