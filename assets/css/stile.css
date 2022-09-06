@@ -201,7 +201,7 @@ footer a {
 
 /* REGOLE CSS DELL'ESERCIZIO */
 
-/* Primo esercizio */
+/* Primo punto dell'esercizio */
 
 #wrap-badge__img {
 	position: relative;
@@ -223,7 +223,7 @@ footer a {
 	border: rgb(34, 109, 170) 4px solid;
 }
 
-/* Secondo esercizio */
+/* Secondo punto dell'esercizio */
 
 /* 
 nav ul li {
@@ -236,10 +236,27 @@ nav ul li {
 	justify-content: center;
 }
 
-/* Terzo esercizio */
+/* Terzo punto dell'esercizio */
 
 header {
 	position: sticky;
 	top: 0px;
 	z-index: 1;
+}
+
+/* Quarto punto dell'esercizio */
+/* 
+#form_newsletter {
+	position: relative;
+} */
+
+#title_form {
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 1.7rem;
+	background-color: #a09a9a;
+	padding: 3px 12px;
+	box-shadow: 2px 2px 2px #333;
+	position: relative;
+	top: -20px;
 }
